@@ -1,0 +1,4 @@
+{
+    "terminal.integrated.cursorStyle": "underline",
+    "javascript.implicitProjectConfig.experimentalDecorators": true
+}
